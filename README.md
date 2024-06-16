@@ -14,7 +14,7 @@ Mentor : SRAVANI GOUNI
 
 **Overview of the Project**
 
-**Project** : Hunam Resources Analytics using PowerBI
+**Project** : Human Resources Analytics using PowerBI
 
 **Objective**: 
 The main objective of my internship in Human Resources Analytics with Power BI was likely to analyze HR data 
